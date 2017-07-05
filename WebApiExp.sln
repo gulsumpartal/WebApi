@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyWebApiExp2_1", "UdemyW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDOperationWithDbFist", "CRUDOperationWithDbFist\CRUDOperationWithDbFist.csproj", "{52D16644-C60C-4F60-869F-2415B46D2B86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JqueryGetPostWithWebApi", "JqueryGetPostWithWebApi\JqueryGetPostWithWebApi.csproj", "{4B021E59-CCA8-4308-8066-44AD13464000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{52D16644-C60C-4F60-869F-2415B46D2B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52D16644-C60C-4F60-869F-2415B46D2B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52D16644-C60C-4F60-869F-2415B46D2B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B021E59-CCA8-4308-8066-44AD13464000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B021E59-CCA8-4308-8066-44AD13464000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B021E59-CCA8-4308-8066-44AD13464000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B021E59-CCA8-4308-8066-44AD13464000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
