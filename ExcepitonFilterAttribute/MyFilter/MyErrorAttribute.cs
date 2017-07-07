@@ -16,6 +16,7 @@ namespace ExcepitonFilterAttribute.MyFilter
              * 3-Web confing (configSections added)
              * 4-Create service folder -> create LogService class
              * 5-create helper folder-> create Utility class -> create ReportError mehtod 
+             * 6-Global.asax içerisine ayarlanma yapılmalı
              * **/
              //< configSections >    < section name = "log4net" type = "log4net.Config.Log4NetConfigurationSectionHandler,log4net" />  </ configSections >
              Utility.ReportError(actionExecutedContext.Exception);
