@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JqueryGetPostWithWebApi", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelValidation", "ModelValidation\ModelValidation.csproj", "{F133C49C-C1FA-49E0-AEF5-49D62B8E7455}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcepitonFilterAttribute", "ExcepitonFilterAttribute\ExcepitonFilterAttribute.csproj", "{E9EF1744-8D08-4C24-A81A-629C499DC610}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F133C49C-C1FA-49E0-AEF5-49D62B8E7455}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F133C49C-C1FA-49E0-AEF5-49D62B8E7455}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F133C49C-C1FA-49E0-AEF5-49D62B8E7455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9EF1744-8D08-4C24-A81A-629C499DC610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EF1744-8D08-4C24-A81A-629C499DC610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EF1744-8D08-4C24-A81A-629C499DC610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EF1744-8D08-4C24-A81A-629C499DC610}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
